@@ -43,6 +43,7 @@ INSTALLED_APPS = [
 
     'user.apps.UserConfig',
     'shelf.apps.ShelfConfig',
+    'todo.apps.TodoConfig',
 ]
 
 MIDDLEWARE = [
